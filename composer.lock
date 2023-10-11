@@ -5,6 +5,7 @@
         "This file is @generated automatically"
     ],
     "content-hash": "dec1d710cb2e97c737303aae9205c07d",
+
     "packages": [
         {
             "name": "brick/math",
@@ -62,6 +63,7 @@
             "time": "2023-01-15T23:15:59+00:00"
         },
         {
+ 
             "name": "composer/semver",
             "version": "3.4.0",
             "source": {
@@ -143,6 +145,7 @@
             "time": "2023-08-31T09:50:34+00:00"
         },
         {
+
             "name": "defuse/php-encryption",
             "version": "v2.4.0",
             "source": {
@@ -642,6 +645,7 @@
             "time": "2022-09-18T07:06:19+00:00"
         },
         {
+
             "name": "firebase/php-jwt",
             "version": "v6.9.0",
             "source": {
@@ -1125,7 +1129,8 @@
                     "email": "webmaster@tubo-world.de",
                     "homepage": "https://github.com/Tobion"
                 },
-                {
+  
+              {
                     "name": "Márk Sági-Kazár",
                     "email": "mark.sagikazar@gmail.com",
                     "homepage": "https://sagikazarmark.hu"
@@ -2620,6 +2625,7 @@
             "time": "2021-06-28T04:27:21+00:00"
         },
         {
+          
             "name": "maatwebsite/excel",
             "version": "3.1.48",
             "source": {
@@ -2888,6 +2894,7 @@
             "time": "2022-12-02T22:17:43+00:00"
         },
         {
+
             "name": "monolog/monolog",
             "version": "3.4.0",
             "source": {
@@ -3685,6 +3692,7 @@
             "time": "2023-06-14T22:48:31+00:00"
         },
         {
+
             "name": "phpoption/phpoption",
             "version": "1.9.1",
             "source": {
@@ -4232,6 +4240,7 @@
         },
         {
             "name": "psr/simple-cache",
+
             "version": "1.0.0",
             "source": {
                 "type": "git",
@@ -4246,11 +4255,13 @@
             },
             "require": {
                 "php": ">=5.3.0"
+
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
                     "dev-master": "1.0.x-dev"
+
                 }
             },
             "autoload": {
@@ -4266,6 +4277,7 @@
                 {
                     "name": "PHP-FIG",
                     "homepage": "http://www.php-fig.org/"
+
                 }
             ],
             "description": "Common interfaces for simple caching",
@@ -4277,9 +4289,11 @@
                 "simple-cache"
             ],
             "support": {
+
                 "source": "https://github.com/php-fig/simple-cache/tree/1.0.0"
             },
             "time": "2017-01-02T13:31:39+00:00"
+
         },
         {
             "name": "psy/psysh",
